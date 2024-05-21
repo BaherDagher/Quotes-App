@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+}
+
+.container h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.container h2 {
+    font-family: serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.container button {
+    padding: 30px 90px;
+    background-color: blue;
+    color: white;
+}
+
+.container button:hover {
+    background-color: green;
+}
